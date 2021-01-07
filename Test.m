@@ -1,5 +1,5 @@
 %% Introduction to Pattern Recognition
-%%  Muhammed Ali Bulut -- 39809067204
+%%  
 %
 %
 %% Import Data
